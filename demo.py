@@ -1,12 +1,8 @@
-price = 100
-discount = 10
-final_price = price + discount
-a = 'hello'
-b = {1, 2, 3}
-c = [1, 2, 3]
-d = {'a': '1'}
-e = (1, 2, 3)
-f = True
-g = None
+a = 1
+b = 2
+if a > b:
+    print("a 大於 b")
+else:
+    print("a 不大於 b")
 
-my_list = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+print("這是一個簡單的條件判斷範例")
